@@ -8,4 +8,4 @@ Github Webhook sends a POST request to the server I.P address whenever there's a
 1. Open a Jira account
 2. Install python
 3. Create a new github repository
-4. An ec2 instance
+4. Ec2 instance
